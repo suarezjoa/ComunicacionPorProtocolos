@@ -1,0 +1,17 @@
+{
+  "name": "clase-19-09-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "grpc-tools": "^1.12.4",
+    "typescript": "^5.2.2"
+  }
+}
